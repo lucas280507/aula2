@@ -4,7 +4,7 @@ Este é o arquivo criado pelo aluno.
 
 GIF abaixo:
 
-![gif](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+![gif](data:image/gif;base64,)
 
 Linha 9
 #gif2
